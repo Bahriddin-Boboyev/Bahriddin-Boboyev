@@ -1,4 +1,4 @@
-### <p align="center"> Hi there 👋 </p>
+### <p align="center"> Hey there! 👋 </p>
 <p  align="center"> <img src="https://github.com/scoderr/scoderr/blob/main/github-gif.gif" alt="gif" width="500" height="auto"> </p>
 
 <!--
