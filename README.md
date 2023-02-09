@@ -1,5 +1,5 @@
 ### <p align="center"> Hey there! 👋 </p>
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer)
+<p align="center">![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer)</p>
 <p  align="center"> <img src="https://github.com/scoderr/scoderr/blob/main/github-gif.gif" alt="gif" width="500" height="auto"> </p>
 
 <!--
