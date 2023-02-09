@@ -4,7 +4,7 @@
 
 <p> - 🌱 I’m currently learning everything about web development </p>
 <p> - ⚡ Fun fact: I love sports and play guitar </p>
-<p> - 🥅 2023 Goals: Learn more about ReactJS , NextJs and JavaScript </p>
+<p> - 🥅 2023 Goals: Learn more about <b>ReactJS</b> , <b>NextJs</b> and <b>JavaScript</b> </p>
 
 <!--   ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer) -->
 
