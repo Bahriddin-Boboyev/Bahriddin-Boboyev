@@ -1,6 +1,6 @@
 ### <p align="center"> Hey there! 👋 </p>
-<p align="center">![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer)</p>
-<p  align="center"> <img src="https://github.com/scoderr/scoderr/blob/main/github-gif.gif" alt="gif" width="500" height="auto"> </p>
+<div align="center">![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer)<div/>
+<p align="center"> <img src="https://github.com/scoderr/scoderr/blob/main/github-gif.gif" alt="gif" width="500" height="auto"> </p>
 
 <!--
 **scroll-off/scroll-off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
