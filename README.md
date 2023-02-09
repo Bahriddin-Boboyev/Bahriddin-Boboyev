@@ -2,9 +2,9 @@
  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&width=435&lines=Hey+there!;I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer" alt="Typing SVG" /></a></p>
  
 
-<p> · 🌱 I’m currently learning everything about web development </p>
-<p> · ⚡ Fun fact: I love sports and play guitar </p>
-<p> · 🥅 2022 Goals: Learn more about ReactJS , NextJs and JavaScript </p>
+<p> - 🌱 I’m currently learning everything about web development </p>
+<p> - ⚡ Fun fact: I love sports and play guitar </p>
+<p> - 🥅 2023 Goals: Learn more about ReactJS , NextJs and JavaScript </p>
 
 <!--   ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer) -->
 
