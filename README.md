@@ -6,7 +6,7 @@
 <p> - ⚡ Fun fact: I love to code and listen to music. </p>
 <p> - 🥅 2023 Goals: Learn more about <b>ReactJS</b> , <b>NextJS</b> and <b>JavaScript</b>. </p>
 
-<!--   ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer) -->
+<!--   ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Full+Stack+Web+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer) -->
 
 <!-- <p align="center"> <img src="https://github.com/scoderr/scoderr/blob/main/github-gif.gif" alt="gif" width="500" height="auto"> </p> -->
 
