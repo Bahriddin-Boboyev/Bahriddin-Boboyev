@@ -1,5 +1,5 @@
 ### <!-- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&width=435&lines=Hey+there!+" alt="Typing SVG" /></a></p> -->
- <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=800&width=435&lines=Hey+there!;I'm+a+Frontend+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer" alt="Typing SVG" /></a></p>
+ <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=800&width=435&lines=Hey+there!;I'm+a+Full Stack+Web+Developer;I'm+a+JavaScript+Developer;I'm+a+React+JS+Developer" alt="Typing SVG" /></a></p>
  
 
 <p> - 🌱 I’m currently learning everything about web development. </p>
