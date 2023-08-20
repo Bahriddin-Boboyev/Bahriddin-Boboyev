@@ -61,9 +61,6 @@ style="padding-right:10px; flex: 1;" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bahriddin-boboyev&show_icons=true&theme=radical" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahriddin-boboyev&theme=radical&layout=compact" />
 
-<br />
-<br/>
-
 ---
 
 <picture>
