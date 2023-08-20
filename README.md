@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 <br/>
-<div align="left">
+<p align="left">
 <img alt="Visual Studio Code" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 style="padding-right:10px; flex: 1;" /> <img alt="HTML5" width="26px"
@@ -52,7 +52,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 style="padding-right:10px; flex: 1;" /> <img alt="Redis" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
 style="padding-right:10px; flex: 1;" />
-</div>
+</p>
 <br />
 <br/>
 
