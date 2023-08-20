@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 <br/>
-<p align="left">
+<p align="left" style="gap:20px;">
 <img alt="Visual Studio Code" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 style="padding-right:10px; flex: 1;" /> <img alt="HTML5" width="26px"
