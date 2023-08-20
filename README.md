@@ -6,6 +6,11 @@
 <p> - ⚡ Fun fact: I love to code and listen to music. </p>
 <p> - 🥅 2023 Goals: Learn more about <b>ReactJS</b> , <b>NextJS</b> and <b>NodeJS</b>. </p>
 
+<br />
+<br />
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px"
