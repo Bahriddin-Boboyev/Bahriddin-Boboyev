@@ -5,8 +5,11 @@
 <p> - 🌱 I’m currently learning everything about web development. </p>
 <p> - ⚡ Fun fact: I love to code and listen to music. </p>
 <p> - 🥅 2023 Goals: Learn more about <b>ReactJS</b> , <b>NextJS</b> and <b>NodeJS</b>. </p>
+<br/>
 
 ### Languages and Tools:
+
+<br/>
 
 <img align="left" alt="Visual Studio Code" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -34,10 +37,7 @@ style="padding-right:10px;" /> <img align="left" alt="MySQL" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 style="padding-right:10px;" /> <img align="left" alt="Git" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-style="padding-right:10px;" />
-
-<br />
-<br />
+style="padding-right:10px;" /> <br /> <br/>
 
 ---
 
