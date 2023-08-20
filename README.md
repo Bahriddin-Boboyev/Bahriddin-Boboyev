@@ -53,7 +53,16 @@ style="padding-right:10px; flex: 1;" /> <img alt="Redis" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
 style="padding-right:10px; flex: 1;" />
 </div>
-<br /> <br/>
+<br />
+<br/>
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahriddin-boboyev&show_icons=true&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahriddin-boboyev&theme=radical&layout=compact" />
+
+<br />
+<br/>
 
 ---
 
