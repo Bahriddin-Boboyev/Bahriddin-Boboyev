@@ -61,9 +61,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 style="padding-right:10px; flex: 1;" align="left" />
 <img alt="Nestjs" width="26px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" 
-style="padding-right:10px; flex: 1;" align="left"/>
-
-<img alt="Git" width="26px"
+style="padding-right:10px; flex: 1;" align="left"/><img alt="Git" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 style="padding-right:10px; flex: 1;" align="left" />
 <img alt="Redis" width="26px"
