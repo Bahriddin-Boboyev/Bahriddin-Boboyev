@@ -10,49 +10,66 @@
 ### Languages and Tools:
 
 <br/>
-<div align="left" style="display: flex; flex-direction: row;">
+
 <img alt="Visual Studio Code" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="HTML5" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="HTML5" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="CSS3" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="CSS3" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="Sass" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="Sass" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="Bootstrap" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="Bootstrap" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="JavaScript" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="JavaScript" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="TypeScript" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="TypeScript" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-style="padding-right:10px; flex: 1;" /><img alt="React" width="26px"
+style="padding-right:10px; flex: 1;" align="left" /><img alt="React" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="Nextjs" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="Nextjs" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="Redux" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="Redux" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-style="padding-right:10px; flex: 1;" /><img alt="Vuejs" width="26px"
+style="padding-right:10px; flex: 1;" align="left" /><img alt="Vuejs" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-style="padding-right:10px; flex: 1;" /><img alt="Nodejs" width="26px"
+style="padding-right:10px; flex: 1;" align="left" /><img alt="Nodejs" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="Express" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="Express" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="GraphQL" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="GraphQL" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="Docker" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="Docker" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-style="padding-right:10px; flex: 1;" /> <img alt="MongoDB" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="MongoDB" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="PostgreSQL" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="PostgreSQL" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="Nestjs" width="26px" 
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="Nestjs" width="26px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" 
-style="padding-right:10px; flex: 1;"/><img alt="Git" width="26px"
+style="padding-right:10px; flex: 1;" align="left"/>
+
+<img alt="Git" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-style="padding-right:10px; flex: 1;" /> <img alt="Redis" width="26px"
+style="padding-right:10px; flex: 1;" align="left" />
+<img alt="Redis" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-style="padding-right:10px; flex: 1;" />
-</div>
+style="padding-right:10px; flex: 1;" align="left" />
+
 <br />
 <br/>
 
