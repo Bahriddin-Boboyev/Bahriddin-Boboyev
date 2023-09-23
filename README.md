@@ -74,8 +74,9 @@ style="padding-right:10px; flex: 1;" align="left" />
 ---
 
 <div style="display: flex; flex-direction: row;">
-<img align="left" style="height: auto; width: 54%;" src="https://github-readme-stats-bahriddin-boboyev.vercel.app/api?username=bahriddin-boboyev&show_icons=true&theme=radical" />
-<img align="right" style="height: auto; width: 41%;" src="https://github-readme-stats-bahriddin-boboyev.vercel.app/api/top-langs/?username=bahriddin-boboyev&theme=radical&layout=compact" />
+<!--  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/ -->
+<img align="left" style="height: auto; width: 54%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bahriddin-boboyev&show_icons=true&theme=radical" />
+<img align="right" style="height: auto; width: 41%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bahriddin-boboyev&theme=radical&layout=compact" />
 </div>
 
 ---
