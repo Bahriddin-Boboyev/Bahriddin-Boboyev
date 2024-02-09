@@ -60,7 +60,7 @@ style="padding-right:10px; flex: 1;" align="left" />
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 style="padding-right:10px; flex: 1;" align="left" />
 <img alt="Nestjs" width="26px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" 
+src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" 
 style="padding-right:10px; flex: 1;" align="left"/><img alt="Git" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 style="padding-right:10px; flex: 1;" align="left" />
