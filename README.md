@@ -59,7 +59,7 @@ style="padding-right:10px; flex: 1;" align="left" />
 <img alt="PostgreSQL" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 style="padding-right:10px; flex: 1;" align="left" />
-<img alt="Nestjs" width="26px" 
+<img alt="Nestjs" width="26px" height="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" 
 style="padding-right:10px; flex: 1;" align="left"/><img alt="Git" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
