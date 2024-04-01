@@ -23,9 +23,6 @@ style="padding-right:10px; flex: 1;" align="left" />
 <img alt="Sass" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
 style="padding-right:10px; flex: 1;" align="left" />
-<img alt="Bootstrap" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-style="padding-right:10px; flex: 1;" align="left" />
 <img alt="JavaScript" width="26px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 style="padding-right:10px; flex: 1;" align="left" />
@@ -61,12 +58,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 style="padding-right:10px; flex: 1;" align="left" />
 <img alt="Nestjs" width="26px" height="26px" 
 src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" 
-style="padding-right:10px; flex: 1;" align="left"/><img alt="Git" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-style="padding-right:10px; flex: 1;" align="left" />
-<img alt="Redis" width="26px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-style="padding-right:10px; flex: 1;" align="left" />
+style="padding-right:10px; flex: 1;" align="left"/>
 
 <br />
 <br/>
