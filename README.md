@@ -4,7 +4,7 @@
 
 <p> - 🌱 I’m currently learning everything about web development. </p>
 <p> - ⚡ Fun fact: I love to code and listen to music. </p>
-<p> - 🥅 2023 Goals: Learn more about <b>ReactJS</b> , <b>NextJS</b> and <b>NodeJS</b>. </p>
+<p> - 🥅 2024 Goals: Learn more about <b>ReactJS</b> , <b>NextJS</b> and <b>NodeJS</b>. </p>
 <br/>
 
 ### Languages and Tools:
